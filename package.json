@@ -1,8 +1,8 @@
 {
   "name": "create-x402",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
-  "bin": { "create-x402": "./cli.js" },
+  "bin": { "create-x402": "./bin.js" },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
